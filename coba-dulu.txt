@@ -3,4 +3,4 @@ Bismillah Belajar Web Develop Fundamental
 - Belajar CSS
 - Belajar Javascript
 - Belajar PHP
-- Belajar bahasa pemrograman lainnya :)
+- Belajar bahasa python
